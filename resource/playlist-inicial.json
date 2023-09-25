@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "songUrl": "resource/playlist/les-childish-gambino.mp3",
+    "imageUrl": "resource/images/camp-childish.jpg",
+    "songTitle": "Les",
+    "artistName": "Childish Gambino",
+    "albumName": "Camp",
+    "songDuration": "4:21",
+    "releaseDate": "2011-11-15"
+  },
+  {
+    "id": "2",
+    "songUrl": "resource/playlist/amphetamine-smino.mp3",
+    "imageUrl": "resource/images/blkswn-smino.jpg",
+    "songTitle": "Amphetamine",
+    "artistName": "Smino",
+    "albumName": "blkswn",
+    "songDuration": "3:50",
+    "releaseDate": "2017-03-14"
+  },
+  {
+    "id": "3",
+    "songUrl": "resource/playlist/moonligth-kali-uchis.mp3",
+    "imageUrl": "resource/images/red-moon-kali.jpg",
+    "songTitle": "Moonlight",
+    "artistName": "Kali Uchis",
+    "albumName": "Red Moon",
+    "songDuration": "3:57",
+    "releaseDate": "2023-03-03"
+  }
+]

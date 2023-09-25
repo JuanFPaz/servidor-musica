@@ -1,0 +1,20 @@
+{
+  "name": "server-musica",
+  "version": "1.0.0",
+  "description": "Reproductor de musica G/Fon#",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "musica",
+    "para",
+    "todos"
+  ],
+  "author": "Juan Paz - {JPaz}",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
